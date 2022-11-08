@@ -9,5 +9,6 @@
 
 4. В [rating_donation_v0.csv](https://github.com/kamranuz/nis-network/blob/master/Data/rating_donation_v0.csv "жмакай давай") объеденнен кривой рейтинг с гуманитарной помощью 
 
+5. В [antirating_v2.csv](https://github.com/kamranuz/nis-network/blob/master/Data/antirating_v2.csv "ты нашел мем") объеденнен кривой рейтинг с гуманитарной помощью, катасрофами, конфликтами, и джини
 
 PS данные взяты отсюда https://ourworldindata.org/12-key-metrics#7-hunger-and-undernourishment. Там всё ок. Расписаны источники, визуализации и дано детальное описание 
