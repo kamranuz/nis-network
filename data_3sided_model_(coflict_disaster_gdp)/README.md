@@ -3,12 +3,7 @@
 
 ### Источники
 
-1. В [ucdp-onesided-221.csv](https://github.com/kamranuz/nis-network/blob/master/data_3sided_model_(coflict_disaster_gdp)/conflict_data/ucdp-onesided-221.csv "меме") набор данных за год с информацией о преднамеренных нападениях на мирных жителей со стороны правительств и официально организованных вооруженных групп. [источник](https://ucdp.uu.se/downloads/index.html#onesided)
-
-2. В [ucdp-nonstate-221.csv](https://github.com/kamranuz/nis-network/blob/master/data_3sided_model_(coflict_disaster_gdp)/conflict_data/ucdp-nonstate-221.csv "пепе") набор данных за год конфликта, содержащий информацию о межобщинных и организованных вооруженных конфликтах, в которых ни одна из сторон не является правительством государства. [источник](https://ucdp.uu.se/downloads/index.html#nonstate)
-
-3. В [ucdp-brd-conf-221.csv](https://github.com/kamranuz/nis-network/blob/master/data_3sided_model_(coflict_disaster_gdp)/conflict_data/ucdp-brd-conf-221.csv "пепе") набор данных с информацией о количестве смертей, связанных с боями, в конфликтах 1989–2021 годов, которые фигурируют в наборе данных UCDP/PRIO о вооруженных конфликтах. [источник](https://ucdp.uu.se/downloads/index.html#battlerelated)
-
+1. В [ged221-csv.zip](https://github.com/kamranuz/nis-network/blob/master/data_3sided_model_(coflict_disaster_gdp)/ged221-csv.zip "меме") набор данных является наиболее дезагрегированным набором данных UCDP, охватывающим отдельные случаи организованного насилия (феномены насилия со смертельным исходом, происходящие в определенное время и в определенном месте). Эти события достаточно детализированы, чтобы их можно было геокодировать вплоть до уровня отдельных деревень, с разбивкой временной продолжительности на отдельные дни. [источник](https://ucdp.uu.se/downloads/index.html#ged_global)
 
 ### Результаты предобработки
 
